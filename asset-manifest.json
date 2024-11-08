@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/immanuel028/my-react-app.git/static/css/main.01ed4c3e.css",
+    "main.js": "/immanuel028/my-react-app.git/static/js/main.97abdd6e.js",
+    "index.html": "/immanuel028/my-react-app.git/index.html",
+    "main.01ed4c3e.css.map": "/immanuel028/my-react-app.git/static/css/main.01ed4c3e.css.map",
+    "main.97abdd6e.js.map": "/immanuel028/my-react-app.git/static/js/main.97abdd6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01ed4c3e.css",
+    "static/js/main.97abdd6e.js"
+  ]
+}
