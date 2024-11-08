@@ -1,0 +1,11 @@
+*,
+html {
+  margin: 0;
+  padding:0;
+}
+
+main {
+  min-height: 110vh;
+  text-align: center;
+  padding: 5px;
+}
