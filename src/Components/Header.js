@@ -2,6 +2,7 @@ import React from 'react';
 import { AppBar, Toolbar, Typography, Button, IconButton, Box } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from 'react-scroll';
+ const company ="{Company Name}"
 
 const Header = ({ handleDrawerToggle, pages }) => {
   return (
@@ -18,8 +19,9 @@ const Header = ({ handleDrawerToggle, pages }) => {
           <MenuIcon />
         </IconButton>
         <Typography variant="h6" component="div" sx={{ flexGrow: 1, fontFamily: 'Playfair Display, serif' }}>
-          Minerva Manpower Agency
+          {company}
         </Typography>
+
         <Box sx={{ display: { xs: 'none', md: 'flex' }, gap: 2 }}>
           {pages.map((page, index) => (
             <Link

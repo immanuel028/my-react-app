@@ -32,12 +32,13 @@ const Gallery = () => {
           </Typography>
           <Divider sx={{ my: 4 }} />
           <p variant="body1" paragraph>
-          A Nail Technician is a skilled beauty professional specializing in nail care and design. Their primary responsibilities include performing manicures and pedicures, applying artificial nails, and enhancing natural nails through a variety of techniques. They shape, file, buff, and polish nails, while also applying nail art, gel, or acrylic overlays based on client preferences.
+          Lorem ipsum odor amet, consectetuer adipiscing elit. Lacus neque tempus a sapien tortor. Tortor tincidunt eleifend tellus luctus faucibus dapibus habitasse. Nisl est dignissim condimentum venenatis enim odio ipsum donec. Suscipit lectus volutpat; cursus vel consectetur ante? Dis tellus taciti sapien ad per felis consectetur felis hac?
 
-Nail Technicians also advise clients on nail and hand care, educate them on hygiene practices, and help them choose nail products suited to their needs. They often work in salons, spas, or independently, maintaining a clean and organized workspace to ensure client safety and satisfaction. A good nail tech is attentive to detail, creative, and possesses strong customer service skills, creating a welcoming atmosphere that leaves clients feeling pampered and valued.
+        Etiam semper nisi ornare magnis magnis ultricies non. Consectetur facilisi congue posuere eleifend leo adipiscing, tortor nascetur class. Himenaeos imperdiet id sit iaculis a malesuada dapibus. Est eros consequat enim aenean quisque potenti nisi fermentum. Gravida natoque ad convallis; eu suspendisse magnis. Quam hendrerit etiam tempus erat pharetra volutpat est. Vulputate sed lacinia sagittis volutpat bibendum enim et commodo.
 
-Additionally, Nail Technicians stay current with industry trends, tools, and health standards, and may participate in ongoing education or certification programs to enhance their expertise. Their goal is to provide high-quality, personalized services that enhance clients’ confidence and satisfaction.
-          </p>
+        Vitae aptent ante in senectus suspendisse a volutpat lobortis quisque. Tincidunt semper ac in laoreet sagittis nisi commodo sollicitudin per. Leo tristique maximus placerat cubilia eget ut nascetur adipiscing. Nam vitae quisque vehicula, phasellus adipiscing nunc. Imperdiet conubia sem porta tincidunt; laoreet torquent posuere. Nibh duis curae taciti magna orci. Sociosqu vitae vestibulum luctus dictumst augue fames. At penatibus posuere nisi in pellentesque non elit. Potenti dis etiam nulla metus in vel mattis curae convallis. Lectus phasellus facilisi amet dis bibendum elit.
+
+        Congue tempor auctor hendrerit nullam bibendum nostra praesent. Himenaeos suscipit class neque curabitur, porttitor bibendum. Sed non aenean, venenatis potenti risus maximus. Rhoncus pellentesque erat aliquet hac in morbi. Etiam neque facilisis ad suscipit dolor maximus. Morbi dapibus sem phasellus class himenaeos tempus montes. Tortor elit porttitor conubia, vivamus platea hac maximus nostra conubia. Facilisis placerat justo turpis rhoncus potenti tristique senectus. Nascetur suscipit potenti sagittis penatibus nascetur ullamcorper pellentesque lorem.</p>
         <Grid container spacing={4}>
           {images.map((image, index) => (
             <Grid item xs={12} md={4} key={index}>

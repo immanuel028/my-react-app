@@ -6,13 +6,13 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import EmailIcon from '@mui/icons-material/Email';
 import PhoneIcon from '@mui/icons-material/Phone';
-
+const content = '2024 This is Template. All rights reserved'
 const Footer = () => {
   return (
     <Box sx={{ bgcolor: 'primary.main', color: 'white', p: 2, mt: 4 }}>
       <Container maxWidth="md" sx={{ textAlign: 'center' }}>
         <Typography variant="body1" sx={{ fontFamily: 'Cinzel, serif', mb: 2 }}>
-          &copy; 2024 Minerva Manpower Agency. All rights reserved.
+          &copy;  {content}.
         </Typography>
         <Box sx={{ mt: 2, display: 'flex', justifyContent: 'center', gap: 2 }}>
           <IconButton color="inherit" href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
@@ -29,11 +29,11 @@ const Footer = () => {
           </IconButton>
         </Box>
         <Box sx={{ mt: 2, display: 'flex', justifyContent: 'center', gap: 2 }}>
-          <IconButton color="inherit" href="mailto:contact@minervamanpower.com" rel="noopener noreferrer">
+          <IconButton color="inherit" href="mailto:email@email.com" rel="noopener noreferrer">
             <EmailIcon />
           </IconButton>
           <Typography variant="body2" sx={{ fontFamily: 'Cinzel, serif' }}>
-            contact@minervamanpower.com
+            contact@email@email.com
           </Typography>
         </Box>
         <Box sx={{ mt: 1, display: 'flex', justifyContent: 'center', gap: 2 }}>

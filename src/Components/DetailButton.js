@@ -16,7 +16,7 @@ const DetailButton = () => {
   return (
     <div>
       <Button variant="contained" color="primary" onClick={handleClickOpen}>
-        Fill Up Details
+        Applicant Registration
       </Button>
       <DetailsModal open={open} handleClose={handleClose} />
     </div>

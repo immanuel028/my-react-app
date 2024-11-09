@@ -5,6 +5,9 @@ import { Link } from 'react-scroll';
 import DetailButton from './DetailButton'; // Ensure this path is correct
 
 const Home = () => {
+
+  const company ="{Company Name}"
+
   const WelcomeText = styled(Typography)({
     marginBottom: '16px',
     fontFamily: 'Playfair Display, serif',
@@ -27,7 +30,7 @@ const Home = () => {
     <BackgroundBox id="home">
       <Container maxWidth="sm" sx={{ textAlign: 'center', paddingTop: '20vh' }}>
         <WelcomeText variant="h4">
-          Welcome to Minerva Manpower Agency
+          Welcome to {company}
         </WelcomeText>
         <Box>
           <HomeButton variant="contained" color="primary">
