@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/immanuel028/my-react-app.git/static/css/main.01ed4c3e.css",
-    "main.js": "/immanuel028/my-react-app.git/static/js/main.6cc556fd.js",
-    "index.html": "/immanuel028/my-react-app.git/index.html",
-    "main.01ed4c3e.css.map": "/immanuel028/my-react-app.git/static/css/main.01ed4c3e.css.map",
-    "main.6cc556fd.js.map": "/immanuel028/my-react-app.git/static/js/main.6cc556fd.js.map"
+    "main.css": "/my-react-app/static/css/main.01ed4c3e.css",
+    "main.js": "/my-react-app/static/js/main.6cc556fd.js",
+    "index.html": "/my-react-app/index.html",
+    "main.01ed4c3e.css.map": "/my-react-app/static/css/main.01ed4c3e.css.map",
+    "main.6cc556fd.js.map": "/my-react-app/static/js/main.6cc556fd.js.map"
   },
   "entrypoints": [
     "static/css/main.01ed4c3e.css",
